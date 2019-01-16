@@ -1,0 +1,26 @@
+html {
+    font-family: 'Hind', sans-serif;
+    background-color: black;
+    color:  #A9A9A9;
+}
+
+.text-heading1 {
+    font-size: 5rem;
+    margin: 0rem;
+}
+
+.text-heading2 {
+    margin: 0rem;
+}
+
+.centered {
+    text-align: center;
+}
+
+.main-content {
+    margin: 5rem;
+}
+
+.no-style {
+    color: inherit;
+}
